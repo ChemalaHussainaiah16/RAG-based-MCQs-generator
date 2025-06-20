@@ -44,7 +44,7 @@ Built using **LangChain**, **FAISS**, **Azure OpenAI**, and **Streamlit**.
 
 ## ▶️ Demo
 
-[▶ Watch the demo](demo.mp4)
+[▶ Watch the demo]([demo.mp4](https://github.com/ChemalaHussainaiah16/RAG-based-MCQs-generator/blob/main/Demo.mp4))
 
 
 ---
