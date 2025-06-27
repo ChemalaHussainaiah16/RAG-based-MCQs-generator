@@ -44,8 +44,12 @@ Built using **LangChain**, **FAISS**, **Azure OpenAI**, and **Streamlit**.
 
 ## ▶️ Demo
 
-> [🔗 Live demo (Coming Soon)]  
-> [💻 Code Walkthrough Video (Coming Soon)]
+
+![Demo1](assets/demo1.png)
+![Demo2](assets/demo2.png)
+![Demo3](assets/demo3.png)
+![Demo4](assets/demo4.png)
+
 
 ---
 
