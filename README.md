@@ -45,10 +45,10 @@ Built using **LangChain**, **FAISS**, **Azure OpenAI**, and **Streamlit**.
 ## ▶️ Demo
 
 
-![Demo1](assets/demo1.png)
-![Demo2](assets/demo2.png)
-![Demo3](assets/demo3.png)
-![Demo4](assets/demo4.png)
+![Demo1](assets/Demo1.png)
+![Demo2](assets/Demo2.png)
+![Demo3](assets/Demo3.png)
+![Demo4](assets/Demo4.png)
 
 
 ---
